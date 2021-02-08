@@ -1,0 +1,15 @@
+C:\Users\Ryaba\source\repos\IM01Ogorod\IM01Ogorod\bin\Debug\netcoreapp3.1\IM01Ogorod.exe
+C:\Users\Ryaba\source\repos\IM01Ogorod\IM01Ogorod\bin\Debug\netcoreapp3.1\IM01Ogorod.deps.json
+C:\Users\Ryaba\source\repos\IM01Ogorod\IM01Ogorod\bin\Debug\netcoreapp3.1\IM01Ogorod.runtimeconfig.json
+C:\Users\Ryaba\source\repos\IM01Ogorod\IM01Ogorod\bin\Debug\netcoreapp3.1\IM01Ogorod.runtimeconfig.dev.json
+C:\Users\Ryaba\source\repos\IM01Ogorod\IM01Ogorod\bin\Debug\netcoreapp3.1\IM01Ogorod.dll
+C:\Users\Ryaba\source\repos\IM01Ogorod\IM01Ogorod\bin\Debug\netcoreapp3.1\IM01Ogorod.pdb
+C:\Users\Ryaba\source\repos\IM01Ogorod\IM01Ogorod\obj\Debug\netcoreapp3.1\IM01Ogorod.csprojAssemblyReference.cache
+C:\Users\Ryaba\source\repos\IM01Ogorod\IM01Ogorod\obj\Debug\netcoreapp3.1\IM01Ogorod.csproj.GenerateResource.cache
+C:\Users\Ryaba\source\repos\IM01Ogorod\IM01Ogorod\obj\Debug\netcoreapp3.1\IM01Ogorod.AssemblyInfoInputs.cache
+C:\Users\Ryaba\source\repos\IM01Ogorod\IM01Ogorod\obj\Debug\netcoreapp3.1\IM01Ogorod.AssemblyInfo.cs
+C:\Users\Ryaba\source\repos\IM01Ogorod\IM01Ogorod\obj\Debug\netcoreapp3.1\IM01Ogorod.csproj.CoreCompileInputs.cache
+C:\Users\Ryaba\source\repos\IM01Ogorod\IM01Ogorod\obj\Debug\netcoreapp3.1\IM01Ogorod.dll
+C:\Users\Ryaba\source\repos\IM01Ogorod\IM01Ogorod\obj\Debug\netcoreapp3.1\IM01Ogorod.pdb
+C:\Users\Ryaba\source\repos\IM01Ogorod\IM01Ogorod\obj\Debug\netcoreapp3.1\IM01Ogorod.genruntimeconfig.cache
+C:\Users\Ryaba\source\repos\IM01Ogorod\IM01Ogorod\obj\Debug\netcoreapp3.1\IM01Ogorod.Form1.resources
